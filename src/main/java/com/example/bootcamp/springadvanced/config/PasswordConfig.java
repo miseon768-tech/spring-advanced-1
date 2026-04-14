@@ -1,4 +1,4 @@
-package com.example.bootcamp.springadvanced.Bean;
+package com.example.bootcamp.springadvanced.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

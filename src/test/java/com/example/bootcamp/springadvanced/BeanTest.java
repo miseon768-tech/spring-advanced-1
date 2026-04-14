@@ -1,6 +1,6 @@
 package com.example.bootcamp.springadvanced;
 
-import com.example.bootcamp.springadvanced.Bean.Food;
+import com.example.bootcamp.springadvanced.food.Food;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;

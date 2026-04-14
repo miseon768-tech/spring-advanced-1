@@ -1,4 +1,4 @@
-package com.example.bootcamp.springadvanced.Bean;
+package com.example.bootcamp.springadvanced.food;
 
 import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.stereotype.Component;
