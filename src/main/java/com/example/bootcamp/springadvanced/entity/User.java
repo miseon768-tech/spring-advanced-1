@@ -1,6 +1,5 @@
 package com.example.bootcamp.springadvanced.entity;
 
-import com.example.bootcamp.springadvanced.JWT.UserRoleEnum;
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
 import lombok.Getter;

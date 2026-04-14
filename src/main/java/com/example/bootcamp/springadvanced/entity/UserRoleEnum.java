@@ -1,4 +1,4 @@
-package com.example.bootcamp.springadvanced.JWT;
+package com.example.bootcamp.springadvanced.entity;
 
 public enum UserRoleEnum {
     USER(Authority.USER),  // 사용자 권한

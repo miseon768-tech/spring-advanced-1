@@ -2,7 +2,7 @@ package com.example.bootcamp.springadvanced.service;
 
 
 import com.example.bootcamp.springadvanced.JWT.JwtUtil;
-import com.example.bootcamp.springadvanced.JWT.UserRoleEnum;
+import com.example.bootcamp.springadvanced.entity.UserRoleEnum;
 import com.example.bootcamp.springadvanced.dto.LoginRequestDto;
 import com.example.bootcamp.springadvanced.dto.SignupRequestDto;
 import com.example.bootcamp.springadvanced.entity.User;

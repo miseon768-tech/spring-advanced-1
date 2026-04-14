@@ -1,7 +1,7 @@
 package com.example.bootcamp.springadvanced.security;
 
 
-import com.example.bootcamp.springadvanced.JWT.UserRoleEnum;
+import com.example.bootcamp.springadvanced.entity.UserRoleEnum;
 import com.example.bootcamp.springadvanced.entity.User;
 import org.springframework.security.core.GrantedAuthority;
 import org.springframework.security.core.authority.SimpleGrantedAuthority;

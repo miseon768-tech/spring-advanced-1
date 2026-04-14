@@ -1,6 +1,6 @@
 package com.example.bootcamp.springadvanced.controller;
 
-import com.example.bootcamp.springadvanced.JWT.UserRoleEnum;
+import com.example.bootcamp.springadvanced.entity.UserRoleEnum;
 import com.example.bootcamp.springadvanced.dto.ProductRequestDto;
 import com.example.bootcamp.springadvanced.entity.User;
 import com.example.bootcamp.springadvanced.security.UserDetailsImpl;

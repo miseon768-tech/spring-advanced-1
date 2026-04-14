@@ -1,6 +1,7 @@
 package com.example.bootcamp.springadvanced.JWT;
 
 import com.example.bootcamp.springadvanced.dto.LoginRequestDto;
+import com.example.bootcamp.springadvanced.entity.UserRoleEnum;
 import com.example.bootcamp.springadvanced.security.UserDetailsImpl;
 import com.fasterxml.jackson.databind.ObjectMapper;
 
